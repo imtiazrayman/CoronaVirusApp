@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoronaVirusApp</string>
+    <string-array name="menu_items">
+        <item>Global Stats</item>
+        <item>China</item>
+        <item>Korea</item>
+        <item>USA</item>
+        <item>Iran</item>
+    </string-array>
+</resources>
